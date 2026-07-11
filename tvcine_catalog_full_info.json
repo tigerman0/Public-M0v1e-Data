@@ -4144,5 +4144,11 @@
     "alternateName": "Taking Of Pelham 1 2 3, The (2009)",
     "link": "https://www.tvcine.pt/filmes-e-series/assalto-ao-metro-123-t0",
     "logo": "https://strapi.api-tvcine.com/uploads/assalto-ao-metro-123-t0-capa_s.webp"
+  },
+  {
+    "name": "Eu sou um Ciborgue, mas Não Faz Mal",
+    "alternateName": "I´m a Cyborg But That´s Ok",
+    "link": "https://www.tvcine.pt/filmes-e-series/eu-sou-um-ciborgue-mas-nao-faz-mal",
+    "logo": "https://strapi.api-tvcine.com/uploads/eu-sou-um-ciborgue-mas-nao-faz-mal-capa_s.webp"
   }
 ]
