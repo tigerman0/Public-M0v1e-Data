@@ -4150,5 +4150,155 @@
     "alternateName": "I´m a Cyborg But That´s Ok",
     "link": "https://www.tvcine.pt/filmes-e-series/eu-sou-um-ciborgue-mas-nao-faz-mal",
     "logo": "https://strapi.api-tvcine.com/uploads/eu-sou-um-ciborgue-mas-nao-faz-mal-capa_s.webp"
+  },
+  {
+    "name": "Para Filadélfia Com Amor",
+    "alternateName": "To Philly With Love",
+    "link": "https://www.tvcine.pt/filmes-e-series/para-filadelfia-com-amor",
+    "logo": "https://strapi.api-tvcine.com/uploads/para-filadelfia-com-amor-capa_s.webp"
+  },
+  {
+    "name": "Postais do Coração",
+    "alternateName": "Postcards From the Heart",
+    "link": "https://www.tvcine.pt/filmes-e-series/postais-do-coracao",
+    "logo": "https://strapi.api-tvcine.com/uploads/postais-do-coracao-capa_s.webp"
+  },
+  {
+    "name": "O Rancho do Amor",
+    "alternateName": "Where The Heart Lands",
+    "link": "https://www.tvcine.pt/filmes-e-series/o-rancho-do-amor-1",
+    "logo": "https://strapi.api-tvcine.com/uploads/o-rancho-do-amor-1-capa_s.webp"
+  },
+  {
+    "name": "As Aventuras de Uma Viajante na Coreia do Sul",
+    "alternateName": "Traveller´s Needs, A",
+    "link": "https://www.tvcine.pt/filmes-e-series/as-aventuras-de-uma-viajante-na-coreia-do-sul",
+    "logo": "https://strapi.api-tvcine.com/uploads/as-aventuras-de-uma-viajante-na-coreia-do-sul-capa_s.webp"
+  },
+  {
+    "name": "Um Encontro de Natal Perfeito",
+    "alternateName": "Perfect Christmas Date, The",
+    "link": "https://www.tvcine.pt/filmes-e-series/um-encontro-de-natal-perfeito",
+    "logo": "https://strapi.api-tvcine.com/uploads/um-encontro-de-natal-perfeito-capa_s.webp"
+  },
+  {
+    "name": "Niko Salva o Natal (VP)",
+    "alternateName": "Niko: Beyond the Northern Lights (VP)",
+    "link": "https://www.tvcine.pt/filmes-e-series/niko-salva-o-natal-vp",
+    "logo": "https://strapi.api-tvcine.com/uploads/niko-salva-o-natal-vp-capa_s.webp"
+  },
+  {
+    "name": "Profeta, Um",
+    "alternateName": "Prophète, Un",
+    "link": "https://www.tvcine.pt/filmes-e-series/profeta-um-t0",
+    "logo": "https://strapi.api-tvcine.com/uploads/profeta-um-t0-capa_s.webp"
+  },
+  {
+    "name": "2012",
+    "alternateName": "",
+    "link": "https://www.tvcine.pt/filmes-e-series/2012",
+    "logo": "https://strapi.api-tvcine.com/uploads/2012-capa_s.webp"
+  },
+  {
+    "name": "Duas Irmãs, um Rei",
+    "alternateName": "Other Boleyn Girl, The",
+    "link": "https://www.tvcine.pt/filmes-e-series/duas-irmas-um-rei",
+    "logo": "https://strapi.api-tvcine.com/uploads/duas-irmas-um-rei-capa_s.webp"
+  },
+  {
+    "name": "Os Reis da Rua",
+    "alternateName": "Street Kings",
+    "link": "https://www.tvcine.pt/filmes-e-series/os-reis-da-rua-t0",
+    "logo": "https://strapi.api-tvcine.com/uploads/os-reis-da-rua-t0-capa_s.webp"
+  },
+  {
+    "name": "Kung Fu Killer 2",
+    "alternateName": "",
+    "link": "https://www.tvcine.pt/filmes-e-series/kung-fu-killer-2",
+    "logo": "https://strapi.api-tvcine.com/uploads/kung-fu-killer-2-capa_s.webp"
+  },
+  {
+    "name": "Hancock",
+    "alternateName": "",
+    "link": "https://www.tvcine.pt/filmes-e-series/hancock",
+    "logo": "https://strapi.api-tvcine.com/uploads/hancock-capa_s.webp"
+  },
+  {
+    "name": "O Tesouro Encalhado",
+    "alternateName": "Fool´s Gold",
+    "link": "https://www.tvcine.pt/filmes-e-series/o-tesouro-encalhado",
+    "logo": "https://strapi.api-tvcine.com/uploads/programa-foto-001800-1363869421_s.webp"
+  },
+  {
+    "name": "O Panda do Kung Fu (VP)",
+    "alternateName": "Kung Fu Panda (VP)",
+    "link": "https://www.tvcine.pt/filmes-e-series/o-panda-do-kung-fu-vp-t0",
+    "logo": "https://strapi.api-tvcine.com/uploads/o-panda-do-kung-fu-vp-t0-capa_s.webp"
+  },
+  {
+    "name": "O Sorriso das Estrelas",
+    "alternateName": "Nights In Rodanthe",
+    "link": "https://www.tvcine.pt/filmes-e-series/o-sorriso-das-estrelas",
+    "logo": "https://strapi.api-tvcine.com/uploads/o-sorriso-das-estrelas-capa_s.webp"
+  },
+  {
+    "name": "Appaloosa",
+    "alternateName": "",
+    "link": "https://www.tvcine.pt/filmes-e-series/appaloosa-t0",
+    "logo": "https://strapi.api-tvcine.com/uploads/appaloosa-t0-capa_s.webp"
+  },
+  {
+    "name": "Música e Letra",
+    "alternateName": "Music And Lyrics",
+    "link": "https://www.tvcine.pt/filmes-e-series/musica-e-letra",
+    "logo": "https://strapi.api-tvcine.com/uploads/programa-foto-001795-1363882343_s.webp"
+  },
+  {
+    "name": "O Mal Casado",
+    "alternateName": "Heartbreak Kid, The",
+    "link": "https://www.tvcine.pt/filmes-e-series/o-mal-casado-t0",
+    "logo": "https://strapi.api-tvcine.com/uploads/o-mal-casado-t0-capa_s.webp"
+  },
+  {
+    "name": "Boarding Gate - Porta de Embarque",
+    "alternateName": "Boarding Gate",
+    "link": "https://www.tvcine.pt/filmes-e-series/boarding-gate-porta-de-embarque-t0",
+    "logo": "https://strapi.api-tvcine.com/uploads/boarding-gate-porta-de-embarque-t0-capa_s.webp"
+  },
+  {
+    "name": "Atirador de Elite",
+    "alternateName": "Sharpshooter",
+    "link": "https://www.tvcine.pt/filmes-e-series/atirador-de-elite",
+    "logo": "https://strapi.api-tvcine.com/uploads/atirador-de-elite-capa_s.webp"
+  },
+  {
+    "name": "Sweeney Todd: O Terrível Barbeiro de Fleet Street",
+    "alternateName": "Sweeney Todd: The Demon Barber Of Fleet Street",
+    "link": "https://www.tvcine.pt/filmes-e-series/sweeney-todd-o-terrivel-barbeiro-de-fleet-street",
+    "logo": "https://strapi.api-tvcine.com/uploads/programa-foto-001611-1358789571_s.webp"
+  },
+  {
+    "name": "A Última Amante",
+    "alternateName": "Vieille Maîtresse, Une",
+    "link": "https://www.tvcine.pt/filmes-e-series/a-ultima-amante",
+    "logo": "https://strapi.api-tvcine.com/uploads/a-ultima-amante-capa_s.webp"
+  },
+  {
+    "name": "Hairspray (2007)",
+    "alternateName": "",
+    "link": "https://www.tvcine.pt/filmes-e-series/hairspray-2007",
+    "logo": "https://strapi.api-tvcine.com/uploads/hairspray-2007-capa_s.webp"
+  },
+  {
+    "name": "Transformers",
+    "alternateName": "",
+    "link": "https://www.tvcine.pt/filmes-e-series/transformers",
+    "logo": "https://strapi.api-tvcine.com/uploads/transformers-capa_s.webp"
+  },
+  {
+    "name": "Ghost Rider",
+    "alternateName": "",
+    "link": "https://www.tvcine.pt/filmes-e-series/ghost-rider",
+    "logo": "https://strapi.api-tvcine.com/uploads/programa-foto-001720-1361791194_s.webp"
   }
 ]
