@@ -1,0 +1,19 @@
+{
+  "source": "tvcine",
+  "version": 1,
+  "last_update": "2026-07-24T08:37:24+00:00",
+  "files": 5,
+  "merge": {
+    "files_processed": 0,
+    "files_retained": 0,
+    "files_merged": 0,
+    "files_new": 5,
+    "items_old": 0,
+    "items_scraped": 0,
+    "items_final": 0,
+    "items_added": 0,
+    "items_updated": 0,
+    "items_unchanged": 0,
+    "duplicates_merged": 0
+  }
+}
