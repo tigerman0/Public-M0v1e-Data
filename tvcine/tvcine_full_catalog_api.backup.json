@@ -1,7 +1,7 @@
 {
   "metadata": {
     "created_at": "2026-07-24T10:01:05+00:00",
-    "updated_at": "2026-07-24T10:02:34+00:00",
+    "updated_at": "2026-07-24T10:01:13+00:00",
     "source": "TVCine API",
     "record_count": 10
   },
@@ -470,7 +470,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/anonimo-t2",
         "website_url": "https://www.tvcine.pt/filmes-e-series/anonimo-t2"
       },
-      "scraped_at": "2026-07-24T10:02:29+00:00"
+      "scraped_at": "2026-07-24T10:01:08+00:00"
     },
     "amor-no-amazonas": {
       "programasRelacionados": [
@@ -678,7 +678,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/amor-no-amazonas",
         "website_url": "https://www.tvcine.pt/filmes-e-series/amor-no-amazonas"
       },
-      "scraped_at": "2026-07-24T10:02:29+00:00"
+      "scraped_at": "2026-07-24T10:01:08+00:00"
     },
     "um-romance-real-em-ibriza": {
       "programasRelacionados": [
@@ -878,7 +878,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/um-romance-real-em-ibriza",
         "website_url": "https://www.tvcine.pt/filmes-e-series/um-romance-real-em-ibriza"
       },
-      "scraped_at": "2026-07-24T10:02:30+00:00"
+      "scraped_at": "2026-07-24T10:01:09+00:00"
     },
     "win-place-love": {
       "programasRelacionados": [
@@ -1022,7 +1022,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/win-place-love",
         "website_url": "https://www.tvcine.pt/filmes-e-series/win-place-love"
       },
-      "scraped_at": "2026-07-24T10:02:30+00:00"
+      "scraped_at": "2026-07-24T10:01:09+00:00"
     },
     "a-hora-silenciosa": {
       "programasRelacionados": [
@@ -1230,7 +1230,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/a-hora-silenciosa",
         "website_url": "https://www.tvcine.pt/filmes-e-series/a-hora-silenciosa"
       },
-      "scraped_at": "2026-07-24T10:02:31+00:00"
+      "scraped_at": "2026-07-24T10:01:10+00:00"
     },
     "cold-storage-ameaca-mortal": {
       "programasRelacionados": [
@@ -1414,7 +1414,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/cold-storage-ameaca-mortal",
         "website_url": "https://www.tvcine.pt/filmes-e-series/cold-storage-ameaca-mortal"
       },
-      "scraped_at": "2026-07-24T10:02:31+00:00"
+      "scraped_at": "2026-07-24T10:01:10+00:00"
     },
     "postais-do-coracao": {
       "programasRelacionados": [
@@ -1598,7 +1598,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/postais-do-coracao",
         "website_url": "https://www.tvcine.pt/filmes-e-series/postais-do-coracao"
       },
-      "scraped_at": "2026-07-24T10:02:32+00:00"
+      "scraped_at": "2026-07-24T10:01:11+00:00"
     },
     "the-brigade-t2": {
       "programasRelacionados": [
@@ -1930,7 +1930,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/the-brigade-t2",
         "website_url": "https://www.tvcine.pt/filmes-e-series/the-brigade-t2"
       },
-      "scraped_at": "2026-07-24T10:02:32+00:00"
+      "scraped_at": "2026-07-24T10:01:11+00:00"
     },
     "a-sombra-do-corvo": {
       "programasRelacionados": [
@@ -2154,7 +2154,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/a-sombra-do-corvo",
         "website_url": "https://www.tvcine.pt/filmes-e-series/a-sombra-do-corvo"
       },
-      "scraped_at": "2026-07-24T10:02:33+00:00"
+      "scraped_at": "2026-07-24T10:01:12+00:00"
     },
     "the-rookie-t8": {
       "programasRelacionados": [
@@ -3248,7 +3248,7 @@
         "detail_api": "https://api-tvcine.com/content/catalogo/detalhe/the-rookie-t8",
         "website_url": "https://www.tvcine.pt/filmes-e-series/the-rookie-t8"
       },
-      "scraped_at": "2026-07-24T10:02:34+00:00"
+      "scraped_at": "2026-07-24T10:01:13+00:00"
     }
   }
 }
