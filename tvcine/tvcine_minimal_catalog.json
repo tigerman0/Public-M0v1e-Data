@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "created_at": "2026-07-24T10:24:55+00:00",
+    "updated_at": "2026-07-24T10:25:04+00:00",
+    "source": "tvcine_full_catalog_api.json",
+    "record_count": 10,
+    "fields": [
+      "title",
+      "titleOriginal",
+      "year",
+      "cast",
+      "type",
+      "season"
+    ]
+  },
+  "items": {
+    "anonimo-t2": {
+      "title": "Anónimo",
+      "titleOriginal": "Anonymous",
+      "year": "2026",
+      "cast": "Jeroen Spitzenberger, Anniek Pheifer, Mies Van Rooijen, Sil Van Der Zwan, Xiorèse Romero",
+      "type": "serie",
+      "season": "2"
+    },
+    "amor-no-amazonas": {
+      "title": "Amor no Amazonas",
+      "titleOriginal": "Love on the Amazon",
+      "year": "2026",
+      "cast": "Jaicy Elliot, Rafael de la Fuente, Cristina Rosato, Raissa Xavier, Omar Pelaez",
+      "type": "filme",
+      "season": ""
+    },
+    "um-romance-real-em-ibriza": {
+      "title": "Um Romance Real em Ibriza",
+      "titleOriginal": "Royal Romance in Ibiza, A",
+      "year": "2026",
+      "cast": "Caprice Bourret, Graham Pritz-Bennett, Gordon Joseph Millar, Tessa Wood, Natasha Christensen",
+      "type": "filme",
+      "season": ""
+    },
+    "win-place-love": {
+      "title": "Win, Place, Love",
+      "titleOriginal": "Win, Place, Love",
+      "year": "2026",
+      "cast": "Jana Kramer, Alex Barone, John Schneider, Tyler Johnson, Charlene Tilton",
+      "type": "filme",
+      "season": ""
+    },
+    "a-hora-silenciosa": {
+      "title": "A Hora Silenciosa",
+      "titleOriginal": "Silent Hour, The",
+      "year": "2026",
+      "cast": "Joel Kinnaman, Sandra Mae Frank, Mekhi Phifer, Mark Strong, Michael Eklund",
+      "type": "filme",
+      "season": ""
+    },
+    "cold-storage-ameaca-mortal": {
+      "title": "Cold Storage - Ameaça Mortal",
+      "titleOriginal": "Cold Storage",
+      "year": "2026",
+      "cast": "Joe Keery, Georgina Campbell, Liam Neeson, Lesley Manville, Sosie Bacon",
+      "type": "filme",
+      "season": ""
+    },
+    "postais-do-coracao": {
+      "title": "Postais do Coração",
+      "titleOriginal": "Postcards From the Heart",
+      "year": "2026",
+      "cast": "Gina Vitori, Nick Checket, Britt Bankhead, Danika Butler, Grace Patterson, Julie Simpson",
+      "type": "filme",
+      "season": ""
+    },
+    "the-brigade-t2": {
+      "title": "The Brigade",
+      "titleOriginal": "Brigade, The",
+      "year": "2026",
+      "cast": "Sofian Khammes, Ophélie Bau, Théo Christine, Rabah Nait Oufella, Waël Sersoub",
+      "type": "serie",
+      "season": "2"
+    },
+    "a-sombra-do-corvo": {
+      "title": "A Sombra do Corvo",
+      "titleOriginal": "Thing With Feathers, The",
+      "year": "2026",
+      "cast": "Benedict Cumberbatch, Sam Spruell, David Thewlis, Eric Lampaert",
+      "type": "filme",
+      "season": ""
+    },
+    "the-rookie-t8": {
+      "title": "The Rookie",
+      "titleOriginal": "Rookie, The",
+      "year": "2026",
+      "cast": "Nathan Fillion, Eric Winter, Melissa O'Neil, Alyssa Diaz, Mekia Cox",
+      "type": "serie",
+      "season": "8"
+    }
+  }
+}
